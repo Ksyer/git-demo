@@ -7,3 +7,7 @@ const reqLogout = () => {
 }
 
 export { reqLogin, reqLogout }
+
+console.log('aaa')
+
+console.log('bbb')
