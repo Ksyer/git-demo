@@ -4,3 +4,5 @@
 console.log(typeof null)
 
 console.log('d')
+
+console.log('dd')
